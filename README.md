@@ -5,6 +5,6 @@ Anggota Kelompok :
 2. Raymasterio Vera L
 3. Renatha Dewi S
 4. Steven Matthew
-5. Vierdari Wijayanti
+5. Vierdaria Wijayanti
 
 Project yang dijalankan : Aplikasi Work Tracker
